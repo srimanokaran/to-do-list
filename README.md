@@ -1,1 +1,3 @@
-# to-do-list
+# to-do list
+
+Simple to-do list application
